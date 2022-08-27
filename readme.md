@@ -7,7 +7,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-rand_fruits = ""0.1.1""
+rand_fruits = "0.1.1"
 ```
 
 Add this to your `main.rs` and don't forget to generate some apples to keep Go Lang away 😆
