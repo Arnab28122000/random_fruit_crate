@@ -1,4 +1,4 @@
-//! # My Crate
+//! # rand_fruits
 //! 
 //! `get_rand_fruits` helps you generate random fruits and takes as an argument
 //! Generating fruits are more convinient.

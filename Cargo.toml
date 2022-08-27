@@ -1,6 +1,6 @@
 [package]
 name = "rand_fruits"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["arnab"]
 edition = "2021"
 description = "A library to generate rabdom fruits"
