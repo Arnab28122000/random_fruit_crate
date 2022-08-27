@@ -3,7 +3,7 @@ name = "rand_fruits"
 version = "0.1.0"
 authors = ["arnab"]
 edition = "2021"
-description = "A library to add a number with one"
+description = "A library to generate rabdom fruits"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
